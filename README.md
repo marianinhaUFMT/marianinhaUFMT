@@ -76,6 +76,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/marianinhaUFMT/marianinhaUFMT/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/marianinhaUFMT/marianinhaREADME/output/snake.svg" alt="Snake animation" />
 
 ###
