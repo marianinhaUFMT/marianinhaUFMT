@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/capa_cortada.png" alt="marianinha banner" width="100%" />
+</p>
+
 <h1 align="left">Hi👋! My name is Mariana</h1>
 
 ###
