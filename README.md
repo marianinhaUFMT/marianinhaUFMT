@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/capa_cortada.png" alt="marianinha banner" width="100%" />
+  <img src="https://i.pinimg.com/originals/6e/ab/39/6eab399fdf36d279141c4d30cecb2e98.gif" alt="marianinha banner" width="100%" />
 </p>
 
 <h1 align="left">Hi👋! My name is Mariana</h1>
