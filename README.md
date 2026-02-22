@@ -1,32 +1,9 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/6e/ab/39/6eab399fdf36d279141c4d30cecb2e98.gif" alt="marianinha banner" width="100%" />
-</p>
-
 <h1 align="left">Hi👋! My name is Mariana</h1>
+<img height="150" src="https://64.media.tumblr.com/a01ac747cacca4c6d014b0f5e39465ff/tumblr_myjokwPtJd1qcc19mo1_500.gif" align="right">
 
 ###
 
 <p align="left">🎓 Computer Science Student @UFMT<br>💡 Passionate about technology, problem-solving, and building meaningful projects<br>🚀 Experience with academic projects in web development, game development, and software engineering, as well as teamwork in collaborative environments<br>💼 Open to collaborations, internships, and exciting challenges to grow skills and knowledge</p>
-
-###
-
-<div align="center">
-  <img height="150" src="https://64.media.tumblr.com/a01ac747cacca4c6d014b0f5e39465ff/tumblr_myjokwPtJd1qcc19mo1_500.gif"  />
-</div>
-
-###
-
-<!-- <h2 align="left">📊 GitHub Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=marianinhaUFMT&theme=tokyonight&column=-1&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=marianinhaUFMT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marianinhaUFMT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-### -->
 
 ###
 
@@ -42,6 +19,24 @@
 </div>
 
 ###
+
+###
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/6e/ab/39/6eab399fdf36d279141c4d30cecb2e98.gif" alt="marianinha banner" width="100%" />
+</p>
+
+<!-- <h2 align="left">📊 GitHub Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=marianinhaUFMT&theme=tokyonight&column=-1&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=marianinhaUFMT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marianinhaUFMT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+### -->
 
 
 ##
