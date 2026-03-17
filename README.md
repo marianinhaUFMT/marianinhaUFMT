@@ -17,7 +17,7 @@
   <img src="https://i.pinimg.com/originals/6e/ab/39/6eab399fdf36d279141c4d30cecb2e98.gif" alt="marianinha banner" width="100%" />
 </p>
 
-<!-- <h2 align="left">📊 GitHub Stats</h2>
+<h2 align="left">GitHub Stats</h2>
 
 ###
 
@@ -27,7 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marianinhaUFMT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-### -->
+###
 
 
 ##
