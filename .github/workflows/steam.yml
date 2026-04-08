@@ -1,0 +1,20 @@
+name: Recently played games
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # atualiza a cada 6 horas
+  workflow_dispatch:        # permite rodar manualmente
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.steam.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: "76561198188649533"
+          plugin_steam_sections: recently-played
+          plugin_steam_achievements_limit: 0
