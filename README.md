@@ -29,6 +29,6 @@
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/marianasanchezpedroni)
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:marianasanchezpedroni@gmail.com)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/marianasanchezpedroni)
-
+![Steam](./metrics.plugin.steam.svg)
 
 ![Snake animation](https://raw.githubusercontent.com/marianinhaUFMT/marianinhaUFMT/output/snake.svg)
