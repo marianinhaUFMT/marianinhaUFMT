@@ -34,7 +34,7 @@
 
 <div align="center">
   <img src="./metrics.plugin.steam.full.svg">
-  <img height="220" src="https://64.media.tumblr.com/a01ac747cacca4c6d014b0f5e39465ff/tumblr_myjokwPtJd1qcc19mo1_500.gif" align="right">
+  <img height="180" src="https://64.media.tumblr.com/a01ac747cacca4c6d014b0f5e39465ff/tumblr_myjokwPtJd1qcc19mo1_500.gif" align="right">
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/marianinhaUFMT/marianinhaUFMT/output/snake.svg)
