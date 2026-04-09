@@ -1,6 +1,6 @@
 # Hi 👋! My name is Mariana
 
-<img height="150" src="https://64.media.tumblr.com/a01ac747cacca4c6d014b0f5e39465ff/tumblr_myjokwPtJd1qcc19mo1_500.gif" align="right">
+<img src="https://media.tenor.com/ZZu2QC-efdUAAAAi/cute-cat-white.gif" width="15%" align="right">
 
 🎓 Computer Science Student @UFMT\
 💡 Passionate about technology, problem-solving, and building meaningful projects\
@@ -29,7 +29,12 @@
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/marianasanchezpedroni)
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:marianasanchezpedroni@gmail.com)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/marianasanchezpedroni)
-![Steam](./metrics.plugin.steam.svg)
-![Steam Full](./metrics.plugin.steam.full.svg)
+
+<!-- <img src="./metrics.plugin.steam.svg" align="left"> -->
+
+<div align="center">
+  <img src="./metrics.plugin.steam.full.svg">
+  <img height="220" src="https://64.media.tumblr.com/a01ac747cacca4c6d014b0f5e39465ff/tumblr_myjokwPtJd1qcc19mo1_500.gif" align="right">
+</div>
 
 ![Snake animation](https://raw.githubusercontent.com/marianinhaUFMT/marianinhaUFMT/output/snake.svg)
