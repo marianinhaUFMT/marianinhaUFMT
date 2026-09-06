@@ -7,7 +7,7 @@
 🚀 Experience with academic projects in web development, game development, and software engineering, as well as teamwork in collaborative environments\
 💼 Open to collaborations, internships, and exciting challenges to grow skills and knowledge
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,python,java,godot,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,python,java,flutter,godot,mysql)](https://skillicons.dev)
 
 
 
