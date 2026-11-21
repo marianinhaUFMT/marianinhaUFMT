@@ -95,13 +95,13 @@ me = Mariana()
 <h2 align="center">GitHub Statistics</h2>
 
 <p align="center">
-  <img width="32%" align="middle" src="https://github-readme-stats.vercel.app/api?username=marianinhaUFMT&show_icons=true&hide_border=true&bg_color=0B0912&title_color=A78BFA&icon_color=8B5CF6&text_color=D8D0E8&include_all_commits=true&card_width=467" />
-  <img width="32%" align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianinhaUFMT&layout=compact&hide_border=true&bg_color=0B0912&title_color=A78BFA&text_color=D8D0E8&langs_count=8&card_width=467" />
-  <img width="32%" align="middle" src="https://streak-stats.demolab.com?user=marianinhaUFMT&theme=transparent&hide_border=true&background=0B0912&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=D8D0E8&currStreakNum=D8D0E8&sideNums=D8D0E8&dates=777080" />
+  <img width="49%" align="middle" src="https://github-readme-stats.vercel.app/api?username=marianinhaUFMT&show_icons=true&hide_border=true&bg_color=0B0912&title_color=A78BFA&icon_color=8B5CF6&text_color=D8D0E8&include_all_commits=true&card_width=495" />
+  <img width="49%" align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianinhaUFMT&layout=compact&hide_border=true&bg_color=0B0912&title_color=A78BFA&text_color=D8D0E8&langs_count=8&card_width=495" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=marianinhaUFMT&bg_color=0B0912&color=A78BFA&line=8B5CF6&point=D8C8FF&area=true&hide_border=true&width=1000&height=250" />
+  <img width="49%" align="middle" src="https://streak-stats.demolab.com?user=marianinhaUFMT&theme=transparent&hide_border=true&background=0B0912&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=D8D0E8&currStreakNum=D8D0E8&sideNums=D8D0E8&dates=777080" />
+  <img width="49%" align="middle" src="https://github-readme-activity-graph.vercel.app/graph?username=marianinhaUFMT&bg_color=0B0912&color=A78BFA&line=8B5CF6&point=D8C8FF&area=true&hide_border=true&width=495&height=195" />
 </p>
 
 <!-- ═══════════════ CONTACT ═══════════════ -->
