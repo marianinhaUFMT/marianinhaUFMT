@@ -37,24 +37,24 @@ class Mariana:
 me = Mariana()
 ```
 
-<h2 align="center">୨୧ Technologies & Tools</h2>
+<h2 align="center">Technologies & Tools</h2>
 
 <p align="center">
   <b>Languages</b>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,react&theme=dark" />
 </p>
 
 <p align="center">
   <b>Development</b>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=flutter,godot,nodejs,nestjs,spring&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,godot,nodejs,nestjs,nextjs,androidstudio&theme=dark" />
 </p>
 
 <p align="center">
   <b>Databases & Tools</b>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,linux,vscode,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,linux,vscode,docker&theme=dark" />
 </p>
 
 <h2 align="center">Featured Projects</h2>
@@ -100,13 +100,16 @@ me = Mariana()
 </p>
 
 <p align="center">
-  <img width="49%" align="middle" src="https://streak-stats.demolab.com?user=marianinhaUFMT&theme=transparent&hide_border=true&background=0B0912&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=D8D0E8&currStreakNum=D8D0E8&sideNums=D8D0E8&dates=777080" />
-  <img width="49%" align="middle" src="https://github-readme-activity-graph.vercel.app/graph?username=marianinhaUFMT&bg_color=0B0912&color=A78BFA&line=8B5CF6&point=D8C8FF&area=true&hide_border=true&width=495&height=195" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=marianinhaUFMT&theme=transparent&hide_border=true&background=0B0912&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=D8D0E8&currStreakNum=D8D0E8&sideNums=D8D0E8&dates=777080" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=marianinhaUFMT&bg_color=0B0912&color=A78BFA&line=8B5CF6&point=D8C8FF&area=true&hide_border=true&height=200" />
 </p>
 
 <!-- ═══════════════ CONTACT ═══════════════ -->
 
-<h2 align="center">୨୧ Let's connect!</h2>
+<h2 align="center">Let's connect!</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marianasanchezpedroni">
