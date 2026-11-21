@@ -1,34 +1,132 @@
-# Hi 👋! My name is Mariana
+<div align="center">
 
-<img height="180" src="https://64.media.tumblr.com/a01ac747cacca4c6d014b0f5e39465ff/tumblr_myjokwPtJd1qcc19mo1_500.gif" align="right">
+![Banner](./banner.svg)
 
-🎓 Computer Science Student @UFMT\
-💡 Passionate about technology, problem-solving, and building meaningful projects\
-🚀 Experience with academic projects in web development, game development, and software engineering, as well as teamwork in collaborative environments\
-💼 Open to collaborations, internships, and exciting challenges to grow skills and knowledge
+[![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=A78BFA&center=true&vCenter=true&width=500&height=35&lines=%E2%96%B8+system+online+%E2%80%94+welcome_;%E2%96%B8+building+things+with+code;computer+science+student+%40+UFMT)](https://github.com/DenverCoder1/readme-typing-svg)
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,js,html,css,c,python,java,flutter,godot,mysql)](https://skillicons.dev)
+</div>
 
+<p align="center">
+  <img src="https://64.media.tumblr.com/a01ac747cacca4c6d014b0f5e39465ff/tumblr_myjokwPtJd1qcc19mo1_500.gif" width="150">
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-6D45A8?style=flat-square&labelColor=0B0912">
+</p>
 
-![marianinha banner](https://i.pinimg.com/originals/6e/ab/39/6eab399fdf36d279141c4d30cecb2e98.gif)
+```bash
+mariana@github:~$ whoami
+```
 
+```python
+class Mariana:
+    def __init__(self):
+        self.education = "Computer Science @ UFMT"
+        self.location = "Brazil 🇧🇷"
+        self.interests = [
+            "Software Engineering",
+            "Artificial Intelligence",
+            "Web Development",
+            "Game Development",
+            "Interactive Experiences"
+        ]
 
-<!---
-## GitHub Stats
+    def currently(self):
+        return "Learning, creating and exploring new ideas ✨"
 
-![trophy](https://github-profile-trophy.vercel.app?username=marianinhaUFMT&theme=tokyonight&column=-1&no-bg=true&no-frame=true)
+me = Mariana()
+```
 
-![stats](https://github-readme-stats.vercel.app/api?username=marianinhaUFMT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false)
+<h2 align="center">୨୧ Technologies & Tools</h2>
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs?username=marianinhaUFMT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true)
---->
+<p align="center">
+  <b>Languages</b>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css&theme=dark" />
+</p>
 
-## Contact
+<p align="center">
+  <b>Development</b>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=flutter,godot,nodejs,nestjs,spring&theme=dark" />
+</p>
 
-[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/marianasanchezpedroni)
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:marianasanchezpedroni@gmail.com)
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/marianasanchezpedroni)
+<p align="center">
+  <b>Databases & Tools</b>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,linux,vscode,docker&theme=dark" />
+</p>
 
+<h2 align="center">Featured Projects</h2>
 
-![Snake animation](https://raw.githubusercontent.com/marianinhaUFMT/marianinhaUFMT/output/snake.svg)
+<p align="center">
+  <i>A little collection of things I've built along the way.</i>
+</p>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">DevRoast</h3>
+      <p align="center">
+        A project focused on code analysis and developer experience.
+      </p>
+      <p align="center">
+        <a href="https://devroast-nu.vercel.app/">
+          <img src="https://img.shields.io/badge/Live%20Demo-6D45A8?style=for-the-badge&logo=vercel&logoColor=white">
+        </a>
+        <a href="https://github.com/marianinhaUFMT/devroast">
+          <img src="https://img.shields.io/badge/Repository-171124?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">MuHNA Digital Projects</h3>
+      <p align="center">
+        Interactive digital experiences and technology for science communication in a natural history museum.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Extension%20Project-6D45A8?style=for-the-badge&logoColor=white">
+      </p>
+    </td>
+  </tr>
+</table>
+<!-- ═══════════════ GITHUB STATS ═══════════════ -->
+
+<h2 align="center">GitHub Statistics</h2>
+
+<p align="center">
+  <img width="32%" align="middle" src="https://github-readme-stats.vercel.app/api?username=marianinhaUFMT&show_icons=true&hide_border=true&bg_color=0B0912&title_color=A78BFA&icon_color=8B5CF6&text_color=D8D0E8&include_all_commits=true&card_width=467" />
+  <img width="32%" align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianinhaUFMT&layout=compact&hide_border=true&bg_color=0B0912&title_color=A78BFA&text_color=D8D0E8&langs_count=8&card_width=467" />
+  <img width="32%" align="middle" src="https://streak-stats.demolab.com?user=marianinhaUFMT&theme=transparent&hide_border=true&background=0B0912&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=D8D0E8&currStreakNum=D8D0E8&sideNums=D8D0E8&dates=777080" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=marianinhaUFMT&bg_color=0B0912&color=A78BFA&line=8B5CF6&point=D8C8FF&area=true&hide_border=true&width=1000&height=250" />
+</p>
+
+<!-- ═══════════════ CONTACT ═══════════════ -->
+
+<h2 align="center">୨୧ Let's connect!</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marianasanchezpedroni">
+    <img src="https://img.shields.io/badge/LinkedIn-6D45A8?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:marianasanchezpedroni@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-6D45A8?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/marianasanchezpedroni">
+    <img src="https://img.shields.io/badge/Instagram-6D45A8?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
+
+<!-- ═══════════════ SNAKE ═══════════════ -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marianinhaUFMT/marianinhaUFMT/output/snake.svg" width="100%" />
+</p>
+
+<p align="center">
+  <samp>「 stay curious. keep building. 」</samp>
+</p>
+
