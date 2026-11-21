@@ -10,25 +10,26 @@
 
   <rect width="1000" height="200" fill="url(#bg)"/>
 
-  <path fill="#9333ea" opacity=".35">
-    <animate attributeName="d" dur="8s" repeatCount="indefinite"
-      values="
-      M0 120 Q250 50 500 120 T1000 120 V200 H0 Z;
-      M0 100 Q250 160 500 100 T1000 100 V200 H0 Z;
-      M0 120 Q250 50 500 120 T1000 120 V200 H0 Z"/>
-  </path>
-
-  <path fill="#7e22ce" opacity=".4">
-    <animate attributeName="d" dur="10s" repeatCount="indefinite"
-      values="
-      M0 150 Q250 90 500 150 T1000 150 V200 H0 Z;
-      M0 130 Q250 180 500 130 T1000 130 V200 H0 Z;
-      M0 150 Q250 90 500 150 T1000 150 V200 H0 Z"/>
-  </path>
-
-  <text x="500" y="95" text-anchor="middle"
-        fill="#eee5ff" font-family="monospace"
-        font-size="32" font-weight="bold">
+  <text x="500" y="85"
+        text-anchor="middle"
+        fill="#eee5ff"
+        font-family="monospace"
+        font-size="32"
+        font-weight="bold">
     Welcome to Mariana's Github &lt;/&gt;
   </text>
+
+  <path fill="#9333ea" opacity=".35">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0 130 Q250 60 500 130 T1000 130 V200 H0 Z;
+              M0 100 Q250 170 500 100 T1000 100 V200 H0 Z;
+              M0 130 Q250 60 500 130 T1000 130 V200 H0 Z"/>
+  </path>
+
+  <path fill="#7e22ce" opacity=".5">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="M0 160 Q250 100 500 160 T1000 160 V200 H0 Z;
+              M0 130 Q250 190 500 130 T1000 130 V200 H0 Z;
+              M0 160 Q250 100 500 160 T1000 160 V200 H0 Z"/>
+  </path>
 </svg>
